@@ -1,7 +1,5 @@
 # YLS-Compact · fcitx5 输入法皮肤
 
-仿 Deepin 风格的 fcitx5 输入法皮肤，**紧凑间距版**。
-
 本仓库 Fork 自 [SkyShadowHero/deepinlike-fcitx5-theme](https://github.com/SkyShadowHero/deepinlike-fcitx5-theme)，
 并在其暗色模式版本的基础上，调整了候选词的内边距，让候选框更贴合文字、整体更紧凑。
 
