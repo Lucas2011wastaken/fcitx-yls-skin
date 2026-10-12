@@ -7,16 +7,16 @@
 
 ## 预览
 
-![预览](views/image.png)
+![预览](views/preview.jpg)
 
-> 图为浅色主题（`YLS-Compact-light`）。预览图沿用上游，实际内边距比图中更紧凑，详见下方对比。
+> 图为浅色主题 `YLS-Compact-light` 的实际效果：候选词高亮框紧贴文字，间距比原版更紧凑。
 
 ## 包含两套主题
 
 | 目录 | 说明 |
 | --- | --- |
-| `YLS-Compact-light` | 浅色主题 |
-| `YLS-Compact-dark` | 暗色主题 |
+| `YLS-Compact-light` | 浅色主题（见上方预览图） |
+| `YLS-Compact-dark` | 暗色主题（深色配色，内边距与浅色版一致） |
 
 ## 与原版的区别
 
